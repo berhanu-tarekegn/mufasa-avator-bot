@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "avatorbot"
+version = "0.1.0"
+description = ""
+authors = ["berhanu-tarekegn <beau.tarek@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.14"
+uvicorn = "^0.35.0"
+python-telegram-bot = "==22.2"
+pydantic-settings = "==2.10.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
