@@ -68,6 +68,10 @@ This is a Telegram bot that generates cool looking avatars based on the name you
 
    Start a chat with your bot on Telegram and enter a name to receive an avatar.
 
+## Acknowledgments
+
+Special thanks to Ali Abdel Aal for the initial idea and demo with Flask.
+
 ## File Descriptions
 
 - `config.py`: Contains the configuration settings for the application using Pydantic.
