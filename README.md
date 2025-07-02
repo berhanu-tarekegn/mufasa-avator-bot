@@ -70,7 +70,7 @@ This is a Telegram bot that generates cool looking avatars based on the name you
 
 ## Acknowledgments
 
-Special thanks to Ali Abdel Aal for the initial idea and demo with Flask.
+Special thanks to Ali Abdel Aal
 
 ## File Descriptions
 
